@@ -260,7 +260,7 @@
       "name": "Dass",
       "role": "All-Rounder",
       "basePrice": 10000,
-      "image": "/images/18.jpg",
+      "image": "https://placehold.co/160x160?text=Dass",
       "stats": {
         "matches": 5,
         "runs": 30,
@@ -305,7 +305,7 @@
       "name": "Nethaji",
       "role": "All-Rounder",
       "basePrice": 5000,
-      "image": "/images/21.jpg",
+       "image": "https://placehold.co/160x160?text=Nethaji",
       "stats": {
         "matches": 5,
         "runs": 30,
